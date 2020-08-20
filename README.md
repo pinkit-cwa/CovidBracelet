@@ -58,6 +58,7 @@ Possible platforms for real-world deployment many, as many of the cheap fitness 
 However, many would need the firmware to be shipped to manufactures.
 * Watch UI
 * Pine Time could be good for testing
+* [TTGO Wristband](https://de.aliexpress.com/item/4000527495064.html?spm=a2g0x.12010615.8148356.63.692d7594QlzyDp) is available with NRF52832 or ESP32; 4MB flash in both versions (probably externally connected)
 
 ## TODOs App and Basestation
 * extend this beyond the simple basestation
